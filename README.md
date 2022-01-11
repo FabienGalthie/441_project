@@ -17,3 +17,9 @@ However even if I used 2000 samples, the buzzer of the LPC608 could not retransc
 Conszquently I choose not to realize a beat accompagnment on a MCU.
 
 In this depository I also add the python code which help me to create different sample list of different part of beat .wav
+(sous_echant.py)
+
+I also tried to synthetize a beat with a gaussian function but it was pretty much ugly so I did not used it but I join the python code to create a list of sample for this function. (gauss.py).
+
+
+
